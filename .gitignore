@@ -7,6 +7,7 @@ venv/
 
 # Ignore files
 .env
-preprocess.py
+prep.py
 *.pyc
 .DS_Store
+test.yaml
